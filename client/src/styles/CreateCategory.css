@@ -1,0 +1,30 @@
+.category-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 5px;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .table th,
+  .table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+  }
+  
+  .modal-content {
+    padding: 20px;
+  }
+  
